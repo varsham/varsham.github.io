@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Hello World</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Hello World</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jul 2024 22:47:41 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Reed-Making</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 18 Jul 2024 22:47:41 -0400</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Hello world!</description>
+      <description>Reed-making is so artistic. You start with the cane (which must be gouged and shaped to even be usable) and soak it. Once it is thoroughly soaked, it can be folded over a mandrel, tied, and clipped. When tying a reed, every revolution of thread around the cane must be carefully placed. There must be no gaps between threads, so the thread must be held taut, but not too taut to break or fray the thread.</description>
     </item>
   </channel>
 </rss>
