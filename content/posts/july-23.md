@@ -1,0 +1,11 @@
++++
+title = 'July 23, 2024'
+date = 2024-07-18T22:47:41-04:00
+draft = false
++++
+
+A cup with a Maryland flag, surrounded by black-eyed susans, is sitting on my desk. I'm waiting for it to dry until I can glaze it with modge-podge, pack it between a few sweatshirts, and put it in my checked bag so I can gift it to my host family twelve days from now. I have Maryland-themed hats, keychains, and a lanyard, but nothing personal to me. I might bring spices to make a savory dish or a cup of chai. 
+
+Next to the cup is a freshly packed bag of reed-making supplies, on a small towel covered in cane shavings. I learned how to tie reeds two days ago. I always hold my breath when I fold the soaked cane over a knife. From there, I alternate between measuring and shifting the position of the cane on the tube. When the alignment is perfect, my fingers must act like glue to hold the cane in place. I always end up wishing I had an extra hand.
+
+I began reading The Magic Finger by Roald Dahl in German today. It was one of my favorite books when I was younger, both because of its punchy, succinct writing style and the story itself. At that time, I had recently begun to learn about deforestation and its impact on animal habitats, so the idea of hunters getting their commeuppance was very apppealing to me. Though I am struggling through some of the German grammar and vocabulary, I am surprised at how much I remember. And my memory goes beyond the story; specific lines and scenes stand out to me, reminding me of their English counterparts. Once I finish The Magic Finger, I hope to tackle Matilda, which to me is a timeless story.
