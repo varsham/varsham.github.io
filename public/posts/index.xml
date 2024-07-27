@@ -6,17 +6,24 @@
     <description>Recent content in Posts on Hello World</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2024 19:28:43 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 14:57:46 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>July 23 2024</title>
+      <title>27 July 2024</title>
+      <link>http://localhost:1313/posts/july-27-2024/</link>
+      <pubDate>Sat, 27 Jul 2024 14:57:46 -0400</pubDate>
+      <guid>http://localhost:1313/posts/july-27-2024/</guid>
+      <description>Though the Olympics ceremony may be overkill and a waste of resources, I think it&amp;rsquo;s worthwhile to appreciate the worldwide culture of the games. On screen, every competing country gets its share of the limelight. The United States and France and Australia arrive in their massive boats, crowded with athletes, but they get the same few seconds as smaller countries that are less recognized. I am not from Belize, Liechtenstein, Nauru, or Somalia (the countries sending the fewest number of athletes, just one each), but I still felt an overwhelming sense of pride watching them excitedly wave their flags.</description>
+    </item>
+    <item>
+      <title>23 July 2024</title>
       <link>http://localhost:1313/posts/july-23-2024/</link>
       <pubDate>Tue, 23 Jul 2024 19:28:43 -0400</pubDate>
       <guid>http://localhost:1313/posts/july-23-2024/</guid>
-      <description>A cup with a Maryland flag, surrounded by black-eyed susans, is sitting on my desk. I&amp;rsquo;m waiting for it to dry until I can glaze it with modge-podge, pack it between a few sweatshirts, and put it in my checked bag so I can gift it to my host family twelve days from now. I have Maryland-themed hats, keychains, and a lanyard, but nothing personal to me. I might bring spices to make a savory dish or a cup of chai.</description>
+      <description>A cup with a Maryland flag, surrounded by black-eyed Susans, is sitting on my desk. I&amp;rsquo;m waiting for it to dry until I can glaze it with modge-podge, pack it between a few sweatshirts, and put it in my checked bag so I can gift it to my host family twelve days from now. I have Maryland-themed hats, keychains, and a lanyard, but nothing personal to me. I might bring spices to make a savory dish or a cup of chai.</description>
     </item>
     <item>
-      <title>July 18, 2023</title>
+      <title>18 July 2023</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Thu, 18 Jul 2024 22:47:41 -0400</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
