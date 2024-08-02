@@ -6,10 +6,17 @@
     <description>Recent content in Posts on Hello World</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jul 2024 21:15:02 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 22:51:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>July 31 2024</title>
+      <title>1 Aug 2024</title>
+      <link>http://localhost:1313/posts/aug-1-2024/</link>
+      <pubDate>Thu, 01 Aug 2024 22:51:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/aug-1-2024/</guid>
+      <description>Day 2 of orientation today. We woke up early, dressed in professional clothing, ate breakfast, and traveled to the State Department. We were all exhausted, but we dragged ourselves through the two layers of security. While waiting in the line, Julien (our ODI representative, original from Cologne, Germany) chatted with us about his experience. He can speak German, French, and English, in that order of proficiency, which is very impressive because his English is very good.</description>
+    </item>
+    <item>
+      <title>31 July 2024</title>
       <link>http://localhost:1313/posts/july-31-2024/</link>
       <pubDate>Wed, 31 Jul 2024 21:15:02 -0400</pubDate>
       <guid>http://localhost:1313/posts/july-31-2024/</guid>
