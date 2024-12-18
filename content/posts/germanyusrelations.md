@@ -1,5 +1,5 @@
 +++
-title = '18.12.2024'
+title = '18 Dezember 2024'
 date = 2024-12-18T18:25:43+01:00
 draft = false
 +++
