@@ -12,7 +12,7 @@ I could admit to myself that the American work-life balance isn't something to b
 
 One of my classmates, while preparing for her next exam, peered at me over her stack of notebooks and asked, “Why do you all have so many school shootings? We have gun control laws here.” I stammered back a response agreeing that the school shooting problem in the United States is horribly unparalleled. “But also,” I added hastily. “I’ve never held a gun before.”
 
-With the incessant questions I was asked about guns, it sometimes wouldn't have been surprised if I pulled out a pistol from my backpack. When I heard statements from my teachers like “this only happens because you guys don't have control laws” I couldn't help but say “That’s not all of America—in my state, we have strict gun control laws.” My teacher shook her head and responded, “Well, you and your state are clearly the exception.”
+With the incessant questions I was asked about guns, sometimes I think that my classmates wouldn't have been surprised if I pulled out a pistol from my backpack. When I heard statements from my teachers like “this only happens because you guys don't have control laws” I couldn't help but say “That’s not all of America—in my state, we have strict gun control laws.” My teacher shook her head and responded, “Well, you and your state are clearly the exception.”
 
 A German friend told a story about how her brother landed himself in the hospital three times in a week, adding that Germany’s universal healthcare system allowed her family to seek treatment for him without financial burden. I let out a puff of air through my nose, but thought back to the itemized bills from my father’s own treatment years ago.
 
